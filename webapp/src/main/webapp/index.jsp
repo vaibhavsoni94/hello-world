@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
-
-</body>
+    <head>
+        <title>My web page</title>
+    </head>
+    <body>
+        <h1>Hello, world!</h1>
+        <p>This is my first web page from Vaibhav.</p>
+        <p>It contains a 
+             <strong>main heading</strong> and <em> paragraph </em>.
+        </p>
+    </body>
 </html>
